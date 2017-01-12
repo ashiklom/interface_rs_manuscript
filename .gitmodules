@@ -1,0 +1,3 @@
+[submodule "scaling_figure/earth_engine"]
+	path = scaling_figure/earth_engine
+	url = https://earthengine.googlesource.com/INTERFACE_RS_manuscript
